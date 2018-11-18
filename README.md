@@ -21,12 +21,6 @@ Add additional notes about how to deploy this on a live system
 * **Tyler Hale** - *Initial work* - [Tyler-Haletek](https://github.com/Tyler-Haletek)
 * **Cameron Hale** - *Initial work*
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
-* Inspiration
-* etc
