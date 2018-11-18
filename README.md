@@ -18,8 +18,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Tyler Hale** - *Initial work* - [Tyler-Haletek](https://github.com/Tyler-Haletek)
 * **Cameron Hale** - *Initial work*
+* **Tyler Hale** - *Initial work* - [Tyler-Haletek](https://github.com/Tyler-Haletek)
 
 ## Acknowledgments
 
